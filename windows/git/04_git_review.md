@@ -13,7 +13,7 @@ Vamos configurar o repositório Central no Github:
 
   3.  Na sequência, clique no botão **New**.
 
-  4.  Crie um **Repositório Público**, chamado **revisao**.
+  4.  Crie um **Repositório Público**, chamado **revisão**.
 <div align="center"><img src="https://i.imgur.com/Ctt17Fj.png" title="source: imgur.com" /></div>
 
 5. Marque a opção **Add a README file** e clique no botão **Create repository**.
